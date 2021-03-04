@@ -6,7 +6,7 @@ Amazon is one of the margest online retailers in the world. It sells countless t
   <img src = "https://media3.s-nbcnews.com/j/newscms/2020_26/3391986/200623-amazon-al-0810_47f0335770a02be8ee80770a51c02c7a.fit-760w.jpg"
        </p>
   
-The dataset contains:
+The dataset is downloaded from https://zenodo.org/record/3549704#.YECwAmRKhQa and contains:
 - Unique_ID
 - Category
 - Review_Header
